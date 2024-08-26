@@ -1,6 +1,6 @@
 @echo off
 REM Define the source and destination directories
-set SOURCE_DIR=C:\Users\Administrator\Pictures\Photos
+set SOURCE_DIR=C:\Users\Administrator\Pictures\Photos-Compress
 set S3_BUCKET=s3://my-drive-bucket/
 
 REM Run the AWS CLI command to sync the files
