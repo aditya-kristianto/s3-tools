@@ -1,8 +1,8 @@
 @echo off
 setlocal enabledelayedexpansion
 
-set "src_dir=C:\Users\Administrator\Pictures\Photos-20240824T055115Z\Photos"
-set "dest_dir=C:\Users\Administrator\Pictures-Compress"
+set "src_dir=C:\Users\Administrator\Pictures\Photos"
+set "dest_dir=C:\Users\Administrator\Pictures\Photos-Compress"
 set "cwebp_path=C:\Users\Administrator\Downloads\libwebp-1.4.0-windows-x64\libwebp-1.4.0-windows-x64\bin\cwebp.exe"
 
 REM Create the destination directory if it doesn't exist
